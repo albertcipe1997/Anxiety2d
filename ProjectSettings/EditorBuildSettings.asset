@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Pruebas.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Pruebas2.unity
+    guid: 92493008694429541a9473e9a01c3612
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 664c9c70ca2ad934ca613ba5d366528e
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 9f79340168c8dd445848f90c2e4c747e
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: 4122fcafaea629845a46110270f92b8d
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 1.unity
+    guid: 530b1106193b3da4ea3448e98a7a8292
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 2.unity
+    guid: b1c0462827b8a7344964134a562e687a
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 3.unity
+    guid: df0f68075b598a8468cc5b13384cc442
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 4.unity
+    guid: 887d968117e921c47b9a9efed70b7128
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 5.unity
+    guid: 2e98f390cd87463458a6b968cce48f26
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 6.unity
+    guid: dc73461e1e52c0145a10b10b7d7335cc
+  - enabled: 1
+    path: Assets/Scenes/Depresion 1.unity
+    guid: 97de90bf0e9211942a956f37014bb8c4
+  - enabled: 1
+    path: Assets/Scenes/Depresion 2.unity
+    guid: 98bb7b6f35290ec47bccbc1ecb9e6d7a
+  - enabled: 1
+    path: Assets/Scenes/Depresion 3.unity
+    guid: 2d4966298022b9b49961c060c23dad54
+  - enabled: 1
+    path: Assets/Scenes/Ira 1.unity
+    guid: 585f225a31627b542af3e5171b9596ee
+  - enabled: 1
+    path: Assets/Scenes/Ira 2.unity
+    guid: 03dda55ee13cb2446a05c5c96473747a
+  - enabled: 1
+    path: Assets/Scenes/Ira 3.unity
+    guid: adc64f89518f9f94bb161996a50cb59c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Depresion 4.unity
+    guid: 121eee0fa1bf21941b647592148696a8
+  - enabled: 1
+    path: Assets/Scenes/Depresion 5.unity
+    guid: 07a310e8f601d2043848edfe5fb6fa9e
+  - enabled: 1
+    path: Assets/Scenes/Ansiedad 7.unity
+    guid: 3722125a8fbe68048a4bafa5fdd1ea57
+  m_configObjects: {}
